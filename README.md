@@ -1,16 +1,31 @@
-### Hi there 👋
+## About me
 
-<!--
-**laykos0/laykos0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Jakub Rybak, a second year student at KTH Royal Institute of Technology in Stockholm studying BSc in Information and Communication Technology.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+- Java: [Snake Game](https://github.com/laykos0/snake-java-fx)
+- Python: [Discord Server Bridge](https://github.com/laykos0/discord-server-bridge)
+- PostgreSQL: [Soundgood Database](https://github.com/laykos0/iv1351-soundgood)
+
+<h3 align="left">Teechnologies</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" height="26">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white" height="25">
+</p>
+
+### Other information
+
+- Languages: Polish, English, Swedish, Spanish
+- Citizenship: Polish
+- Born: October 8, 2002
+
+### Get in touch
+
+- E-mail: <laykos0@protonmail.com>
+
