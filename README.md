@@ -12,9 +12,6 @@ Hi, I'm Jakub Rybak, a second year student at KTH Royal Institute of Technology 
 <h3 align="left">Teechnologies</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" height="26">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white" height="25">
 </p>
