@@ -9,7 +9,7 @@ Hi, I'm Jakub Rybak, a third year student at KTH Royal Institute of Technology i
 - Python: [Discord Server Bridge](https://github.com/laykos0/discord-server-bridge)
 - PostgreSQL: [Soundgood Database](https://github.com/laykos0/iv1351-soundgood)
 
-<h3 align="left">Teechnologies</h3>
+<h3 align="left">Technologies</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="25">
