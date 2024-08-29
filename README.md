@@ -1,6 +1,6 @@
 ## About me
 
-Hi, I'm Jakub Rybak, a third year student at KTH Royal Institute of Technology in Stockholm studying BSc in Information and Communication Technology.
+Hi, I'm Jakub Rybak, a first year student at KTH Royal Institute of Technology in Stockholm studying MSc in Cybersecurity.
 
 
 ### Projects
