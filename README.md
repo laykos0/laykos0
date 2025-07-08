@@ -24,5 +24,5 @@ Hi, I'm Jakub Rybak, a second year student at KTH Royal Institute of Technology 
 
 ### Get in touch
 
-- E-mail: <laykos0@protonmail.com>
+- E-mail: <jrybak.dev@gmail.com>
 
