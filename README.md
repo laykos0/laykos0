@@ -1,20 +1,5 @@
 ## About me
-
-Hi, I'm Jakub Rybak, a second year student at KTH Royal Institute of Technology in Stockholm studying MSc in Cybersecurity.
-
-
-### Projects
-
-- Java: [Snake Game](https://github.com/laykos0/snake-java-fx)
-- Python: [Discord Server Bridge](https://github.com/laykos0/discord-server-bridge)
-- PostgreSQL: [Soundgood Database](https://github.com/laykos0/iv1351-soundgood)
-
-<h3 align="left">Technologies</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white" height="25">
-</p>
+Hi, I'm Jakub Rybak. I architect resilient systems at the intersection of enterprise requirements and technical innovation, building full-stack solutions that balance scalability with security. My primary expertise centers on modular architectures using TypeScript (NestJS/React) and Python (FastAPI), rigorously applying Domain-Driven Design and Event-Driven principles. While I have strong preferences for formalizable patterns like CQRS and verifiable system design, I remain pragmatic when integrating diverse paradigms to solve complex business challenges.
 
 ### Other information
 
